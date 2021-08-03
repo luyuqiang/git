@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 od1
 od2
+od3
