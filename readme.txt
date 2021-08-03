@@ -5,5 +5,3 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Plan for Feature 1.
 Plan for Feature 2.
-Bug Fix.
-Bug Fix2.
