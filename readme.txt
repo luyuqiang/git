@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Plan for Feature 1.
 Plan for Feature 2.
 bug fix.
+bug fix2.
